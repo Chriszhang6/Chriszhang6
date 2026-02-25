@@ -8,9 +8,9 @@ Data practitioner exploring vibe coding and AI-native development.
 
 ## Featured Projects
 
-- **[mario](https://github.com/Chriszhang6/mario)** - Classic Mario game
-- **[space_invader](https://github.com/Chriszhang6/space_invader)** - Space Invaders clone
-- **[ori-vs-rat-game](https://github.com/Chriszhang6/ori-vs-rat-game)** - Ori vs Rat adventure
+- **[mario](https://chriszhang6.github.io/mario/)** - Classic Mario game
+- **[space_invader](https://chriszhang6.github.io/space_invader/)** - Space Invaders clone
+- **[ori-vs-rat-game](https://chriszhang6.github.io/ori-vs-rat-game/)** - Ori vs Rat adventure
 - **[windows98-homepage](https://github.com/Chriszhang6/windows98-homepage)** - [chriszhangai.com](https://chriszhangai.com) - Nostalgic Windows 98 personal homepage
 
 ---
