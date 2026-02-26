@@ -1,6 +1,6 @@
 # Hi, I'm Chris
 
-📍 **Melbourne** | 👔 **Senior Manager, Automation**
+📍 **Melbourne** | 👔 **A full stack builder**
 
 Data practitioner exploring vibe coding and AI-native development.
 
