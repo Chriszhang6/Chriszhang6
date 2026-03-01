@@ -1,6 +1,6 @@
 # Hi, I'm Chris
 
-📍 **Melbourne** | 👔 **A full stack builder**
+📍 **Melbourne** | **a full stack builder**
 
 Data practitioner exploring vibe coding and AI-native development.
 
