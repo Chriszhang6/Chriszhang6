@@ -1,7 +1,6 @@
 # Hi, I'm Chris
 
-**Melbourne** | **Full Stack Builder** 
-chriszhangai.com
+**Melbourne** | **Full Stack Builder** ｜ **chriszhangai.com**
 
 ---
 
