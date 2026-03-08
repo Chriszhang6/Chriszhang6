@@ -2,8 +2,6 @@
 
 **Melbourne** | **Full Stack Builder**
 
-Data practitioner exploring vibe coding and AI-native development.
-
 ---
 
 ## Featured Projects
