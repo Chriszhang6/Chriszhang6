@@ -21,6 +21,7 @@
 
 - 🏠 [Windows 98 Homepage](https://chriszhangai.com) - Nostalgic Windows 98 personal homepage
 - 📚 [Bookshelf](https://chriszhang6.github.io/bookshelf/) - A curated collection of timeless literature
+- 🗺️ [Victoria Heritage Map](https://chriszhang6.github.io/VIC-museum/) - Interactive map of 26 museums and historic buildings across Victoria, with bilingual English/Chinese support
 
 ---
 
